@@ -1,2 +1,3 @@
 # c-code
-Beginners of C language
+C语言初学者
+为了记录大学学习中代码的撰写历程，并为了提高代码撰写与创新简化能力，我决定选择加入github，并努力学习！
